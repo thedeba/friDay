@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="os-sys" />
+            <item index="1" class="java.lang.String" itemvalue="qt5-applications" />
+            <item index="2" class="java.lang.String" itemvalue="PyQt5-Qt5" />
+            <item index="3" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="4" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="5" class="java.lang.String" itemvalue="pyqt5-plugins" />
+            <item index="6" class="java.lang.String" itemvalue="qt5-tools" />
+            <item index="7" class="java.lang.String" itemvalue="pyqt5-tools" />
+            <item index="8" class="java.lang.String" itemvalue="PyAudio" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="speech_recognition.Recognizer.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
